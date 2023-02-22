@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="20.77" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Free Login Application feature" name="User Login scenario - Example #1.1" time="20.643">
+<system-out><![CDATA[
+Given User is on the Application Home Page..................................passed
+When Application Page Title is Free CRM.....................................passed
+Then User click on SignUp button............................................passed
+When Application Page Title is Cogmento CRM.................................passed
+Then User click on Got an account button....................................passed
+When user is on the Login page..............................................passed
+Then User enters username and password......................................passed
+When User navigate to user profile page.....................................passed
+Then Mouse Hover on Contacts and Click new Contact..........................passed
+And User enters Contact Details Deepu and Jose and QA Tester and Testing....passed
+Then Click Submit button....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
